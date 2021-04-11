@@ -1,0 +1,3 @@
+<script type="text/javascript">  
+document.write("JavaScript is simple for javatpoint learners");  
+</script>  
